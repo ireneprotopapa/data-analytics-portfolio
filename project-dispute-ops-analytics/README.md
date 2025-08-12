@@ -1,7 +1,14 @@
 # Card-Issuer Dispute & Chargeback Ops Analytics (SQLite)
 
-**Niche:** Disputes/chargebacks analytics for a *card-issuing fintech* with multi-country customers and merchants.  
-**Goal:** Monitor operational KPIs (volumes, win/loss, SLA), quantify financial exposure, and surface risk patterns to inform controls and playbooks.
+**Topic of the project:** Disputes/chargebacks analytics for a *card-issuing fintech* with multi-country customers and merchants.  
+**Goal:**  Analyze disputes and chargebacks to:
+  -Identify which merchants or categories cause the most disputes
+  -Monitor win/loss rates 
+  -Track SLA performance
+  -Spot high-risk patterns (repeat offenders, high refund rates, cross-border disputes)
+  -Give management data to improve policies (like blocking risky merchants or adding extra checks)
+
+
 
 ## How to run (100% in browser)
 1. Open https://sqliteonline.com/
