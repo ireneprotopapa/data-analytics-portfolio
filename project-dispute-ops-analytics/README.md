@@ -3,7 +3,7 @@
 **Topic of the project:** Disputes/chargebacks analytics for a *card-issuing fintech* with multi-country customers and merchants.  
 **Goal:**  Analyze disputes and chargebacks to:
 
-  -Identify which merchants or categories cause the most disputes
+  -Identify which merchants or categories cause the most disputes //
   -Monitor win/loss rates 
   -Track SLA performance
   -Spot high-risk patterns (repeat offenders, high refund rates, cross-border disputes)
